@@ -1,0 +1,6 @@
+[submodule "zoomer"]
+	path = zoomer
+	url = git://github.com/larrykluger/Zoomer.git
+[submodule "colorbox"]
+	path = colorbox
+	url = git://github.com/jackmoore/colorbox.git
